@@ -5,9 +5,9 @@ using namespace std;
 int main() {
   	cout << "Fibonacci Sequence Program by Eddie Hozan\n";
 	int terms;
-	int t1 = 0;
-	int t2 = 1; 
-	int result;
+	long long t1 = 0;
+	long long t2 = 1; 
+	long long result;
 	cout << "Enter the number of terms to print: ";
   	cin >> terms;
 	
